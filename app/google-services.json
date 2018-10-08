@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "217758398638",
+    "firebase_url": "https://growdsourcer.firebaseio.com",
+    "project_id": "growdsourcer",
+    "storage_bucket": "growdsourcer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217758398638:android:82ce91dbbb7d0433",
+        "android_client_info": {
+          "package_name": "com.example.nikol.growdsourcer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217758398638-2jcjqo8birahbfmok4eonhjdoeesre8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9WP0yns1G06J49Ilg_8ZK-7Q_yRK5dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
